@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CoreUI/Home.unity
+    guid: fe5f0d80e6ca3ce4fafe310e485cb007
+  - enabled: 1
+    path: Assets/CoreUI/Game.unity
+    guid: 58289e36c588123499efa11499641ff2
+  - enabled: 1
+    path: Assets/CoreUI/NextGame.unity
+    guid: a5cbeec55bcaff647ba8be76054fd6a1
+  - enabled: 1
+    path: Assets/CoreUI/Quit.unity
+    guid: 8fa06fe47f9efa749a441a3ee221c6c4
+  - enabled: 0
+    path: Assets/CoreUI/Ready.unity
+    guid: 66863bbce65b92e4ca795b3a800476ce
+  - enabled: 0
+    path: Assets/CoreUI/Setting.unity
+    guid: a8177127d15c03442a105afdf52997c0
+  - enabled: 0
+    path: Assets/CoreUI/Credits.unity
+    guid: af0d533bed748d44f840bf108a8708f8
